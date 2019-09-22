@@ -1,0 +1,7 @@
+{
+    "port": "COM16",
+    "programmer": "AVR ISP",
+    "board": "espressif:esp32:WeMosBat",
+    "configuration": "FlashFreq=80,UploadSpeed=921600",
+    "sketch": "Multi_GSM_090919\\Multi_GSM_090919.ino"
+}
