@@ -14,12 +14,13 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
+//test
 
 // beelogger.de - Arduino Datenlogger für Imker
 // Erläuterungen dieses Programmcodes unter http://beelogger.de
 // Version 2019    09.09.2019  beelogger Multi GSM, bis zu vier Waagen
 
-const char ID[] = "MULTI_GSM_090919_waage2_15092019_ce";  //nur Grossbuchstaben,Zahlen, keine Blanks
+const char ID[] = "MULTI_GSM_090919_waage2_22092019_ce";  //nur Grossbuchstaben,Zahlen, keine Blanks
 
 
 #include "Multi_GSM_config.h"     // Konfiguration und Kalibrierung eintragen

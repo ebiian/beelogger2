@@ -3,12 +3,17 @@
         {
             "name": "Win32",
             "includePath": [
+                "C:\\Users\\christian\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\christian\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\**",
                 "C:\\Users\\christian\\Documents\\Arduino\\tools\\**",
+                "C:\\Users\\christian\\Documents\\Arduino\\libraries\\**",
                 "C:\\Users\\christian\\Documents\\Arduino\\hardware\\espressif\\esp32\\**",
                 "C:\\Program Files (x86)\\Arduino\\tools\\**",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**"
             ],
-            "forcedInclude": [],
+            "forcedInclude": [
+                "C:\\Users\\christian\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\cores\\arduino\\Arduino.h"
+            ],
             "intelliSenseMode": "msvc-x64",
             "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
             "cStandard": "c11",
