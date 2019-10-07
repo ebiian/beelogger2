@@ -20,7 +20,7 @@
 // Erläuterungen dieses Programmcodes unter http://beelogger.de
 // Version 2019    09.09.2019  beelogger Multi GSM, bis zu vier Waagen
 
-const char ID[] = "MULTI_GSM_090919_waage2_22092019_ce";  //nur Grossbuchstaben,Zahlen, keine Blanks
+const char ID[] = "MULTI_GSM_090919_waage2_6102019_ce";  //nur Grossbuchstaben,Zahlen, keine Blanks
 
 
 #include "Multi_GSM_config.h"     // Konfiguration und Kalibrierung eintragen

@@ -34,8 +34,8 @@ float VMinimum = 3.75;               // Minimale Spannung ab der keine Messungen
 
 // Kalibrierung
 //----------------------------------
-int Kalib_Spannung = 4150; // Hier muss der Wert aus der Kalibrierung eingetragen werden
-int Kalib_Bitwert  =  1651; // Hier muss der Wert aus der Kalibrierung eingetragen werden
+int Kalib_Spannung = 4120; // Hier muss der Wert aus der Kalibrierung eingetragen werden
+int Kalib_Bitwert  =  1631; // Hier muss der Wert aus der Kalibrierung eingetragen werden
 //----------------------------------
 
 float Batteriespannung = -1.0;
@@ -57,7 +57,7 @@ volatile bool ok_sleep = false;
 //--------------------------------------------------
 void setup() {
   Serial.begin(9600);
-  Serial.println("beelogger Solar Test 15.07.2019 ");
+  Serial.println("beelogger Solar Test Waage 2 6.9.2019 ");
   Serial.println("beelogger Solar Test Uhr und Kalibrierwerte: ");
 
   pinMode(Power_Pin, OUTPUT);

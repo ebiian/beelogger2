@@ -1,6 +1,6 @@
 {
-    "port": "COM14",
-    "programmer": "AVR ISP",
+    "port": "COM16",
+    "programmer": "Arduino as ISP",
     "board": "arduino:avr:pro",
     "configuration": "cpu=8MHzatmega328",
     "sketch": "Multi_GSM_090919\\Multi_GSM_090919.ino"

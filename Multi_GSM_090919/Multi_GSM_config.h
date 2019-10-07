@@ -41,8 +41,8 @@
 
 //--------------------------------------------------------------------------------------------
 // Kalibrierwerte für die Wägezellen
-const long Taragewicht[4] = { 10,  10,  10,  10 }; // Hier ist der Wert aus der Kalibrierung einzutragen
-const float Skalierung[4] = { 1.0, 1.0, 1.0, 1.0 }; // Hier ist der Wert aus der Kalibrierung einzutragen
+const long Taragewicht[4] = { 128385,  10,  10,  10 }; // Hier ist der Wert aus der Kalibrierung einzutragen
+const float Skalierung[4] = { 20475.42, 1.0, 1.0, 1.0 }; // Hier ist der Wert aus der Kalibrierung einzutragen
 
 //--------------------------------------------------------------------------------------------
 // Kalibrierwerte für die Spannungsmessung Akku

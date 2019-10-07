@@ -27,7 +27,7 @@ const char ID[] = "Waage_Kalibrierung 080519a";
 //----------------------------------------------------------------
 
 // hier kann das Kalibriergewicht in _Gramm_ eingetragen werden
-long KalibrierGewicht = 19000;  // 10000 = 10kG Referenzgewicht
+long KalibrierGewicht = 16600;  // 10000 = 10kG Referenzgewicht
 
 
 // hier können bekannte Kalibrierwerte für Test-/Vergleichsmessung eingetragen werden
