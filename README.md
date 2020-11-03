@@ -15,3 +15,5 @@ const float Skalierung[4] = { 20475.42, 1.0, 1.0, 1.0 }; //
 const long Kalib_Spannung = 4120;    // Hier muss der Wert aus der Kalibrierung eingetragen werden, sonst funktioniert der Programmcode nicht
 const long Kalib_Bitwert  =  1631;    // Hier muss der Wert aus der Kalibrierung eingetragen werden, sonst funktioniert der Programmcode nicht
 
+am 26.10.2020 neuer akku! (von 2 auf 5 stk 18650 aufgerüstet)
+problem: es wird alle 15 min. werden 2 messungen! gesendet obwohl 240 min. eingestellt ist !?!
